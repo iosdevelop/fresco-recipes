@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Jamaican Potatoes Coconut Bowl",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-potatoes-coconut-bowl/",
+        "description": "A vegan Jamaican recipe built around available ingredients and appliance-friendly cooking.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+    },
+    {
+        "title": "Jamaican Rice and Peas",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-rice-and-peas/",
+        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+    },
+    {
+        "title": "Chickpea Curry Bowl",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/chickpea-curry-bowl/",
+        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+    },
+    {
+        "title": "Vegan Mushroom Gravy",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegan-mushroom-gravy/",
+        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+    },
+    {
+        "title": "Coconut Brown Rice",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/coconut-brown-rice/",
+        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+    },
+    {
+        "title": "Jamaican Lentil Stew",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-lentil-stew/",
+        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+    },
+    {
+        "title": "Vegan Dumplings",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegan-dumplings/",
+        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+    }
+]
