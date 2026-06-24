@@ -1,80 +1,122 @@
 [
     {
-        "title": "Vegetable Soup Powder From Wincos Bulk Section Pepperpot Soup",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegetable-soup-powder-from-wincos-bulk-section-pepperpot-soup/",
-        "description": "A vegan pepperpot soup built around vegetable soup powder from Wincos bulk section with appliance-friendly steps and Jamaican-inspired island seasoning.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/generated/recipes/vegetable-soup-powder-from-wincos-bulk-section-pepperpot-soup-2bcfe458b6.svg"
-    },
-    {
         "title": "1 Small Onion Pepperpot Soup",
         "url": "https://iosdevelop.github.io/fresco-recipes/recipes/1-small-onion-pepperpot-soup/",
         "description": "A vegan pepperpot soup built around 1 small onion with appliance-friendly steps and Jamaican-inspired island seasoning.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/generated/recipes/1-small-onion-pepperpot-soup-1004fba2cc.svg"
-    },
-    {
-        "title": "Savory Mushroom Patties",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/savory-mushroom-patties/",
-        "description": "Savory vegan patties built around mushrooms with Jamaican-inspired island seasoning and complete appliance instructions.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/generated/recipes/savory-mushroom-patties-b89837ed58.svg"
-    },
-    {
-        "title": "Home-Style Vegan Tofu Scramble",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/home-style-vegan-tofu-scramble/",
-        "description": "An original home-kitchen recipe inspired by Tofu Scramble, built around potatoes with the jamaican-inspired vegan comfort food feel and the qualities you liked: bold flavor and satisfying texture.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/generated/recipes/home-style-vegan-tofu-scramble-178567360a.svg"
-    },
-    {
-        "title": "Tofu Jerk Bowl",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/tofu-jerk-bowl/",
-        "description": "A vegan jerk bowl built around tofu with appliance-friendly steps and Jamaican-inspired island seasoning.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/generated/recipes/tofu-jerk-bowl-df6625fc9d.svg"
-    },
-    {
-        "title": "Jamaican Potatoes Patties",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-potatoes-patties/",
-        "description": "A vegan Jamaican patties built around potatoes with appliance-friendly steps and bright island seasoning.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
-    },
-    {
-        "title": "Jamaican Potatoes Coconut Bowl",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-potatoes-coconut-bowl/",
-        "description": "A vegan Jamaican recipe built around available ingredients and appliance-friendly cooking.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
-    },
-    {
-        "title": "Jamaican Rice and Peas",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-rice-and-peas/",
-        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/1-small-onion-pepperpot-soup.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
     },
     {
         "title": "Chickpea Curry Bowl",
         "url": "https://iosdevelop.github.io/fresco-recipes/recipes/chickpea-curry-bowl/",
         "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/chickpea-curry-bowl.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
     },
     {
-        "title": "Vegan Mushroom Gravy",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegan-mushroom-gravy/",
-        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+        "title": "Chickpeas Jamaican Stew",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/chickpeas-jamaican-stew/",
+        "description": "A savory vegan Jamaican-inspired stew with layered aromatics and a bright lime finish.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/chickpeas-jamaican-stew.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
     },
     {
         "title": "Coconut Brown Rice",
         "url": "https://iosdevelop.github.io/fresco-recipes/recipes/coconut-brown-rice/",
         "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/coconut-brown-rice.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Home-Style Vegan Tofu Scramble",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/home-style-vegan-tofu-scramble/",
+        "description": "An original home-kitchen recipe inspired by Tofu Scramble, built around potatoes with the jamaican-inspired vegan comfort food feel and the qualities you liked: bold flavor and satisfying texture.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/home-style-vegan-tofu-scramble.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
     },
     {
         "title": "Jamaican Lentil Stew",
         "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-lentil-stew/",
         "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/jamaican-lentil-stew.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Jamaican Potatoes Coconut Bowl",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-potatoes-coconut-bowl/",
+        "description": "A vegan Jamaican recipe built around available ingredients and appliance-friendly cooking.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/jamaican-potatoes-coconut-bowl.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Jamaican Potatoes Patties",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-potatoes-patties/",
+        "description": "A vegan Jamaican patties built around potatoes with appliance-friendly steps and bright island seasoning.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/jamaican-potatoes-patties.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Jamaican Rice and Peas",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-rice-and-peas/",
+        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/jamaican-rice-and-peas.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Savory Mushroom Patties",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/savory-mushroom-patties/",
+        "description": "Savory vegan patties built around mushrooms with Jamaican-inspired island seasoning and complete appliance instructions.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/savory-mushroom-patties.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Tofu Jerk Bowl",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/tofu-jerk-bowl/",
+        "description": "A vegan jerk bowl built around tofu with appliance-friendly steps and Jamaican-inspired island seasoning.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/tofu-jerk-bowl.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
     },
     {
         "title": "Vegan Dumplings",
         "url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegan-dumplings/",
         "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/img/default-recipe.svg"
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/vegan-dumplings.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Vegan Mushroom Gravy",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegan-mushroom-gravy/",
+        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/vegan-mushroom-gravy.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Vegetable Broth Rundown",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegetable-broth-rundown/",
+        "description": "A vegan rundown built around 1 tablespoon coconut oil or vegetable broth with appliance-friendly steps and Jamaican-inspired island seasoning.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/vegetable-broth-rundown.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Vegetable Soup Powder From Wincos Bulk Section Pepperpot Soup",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegetable-soup-powder-from-wincos-bulk-section-pepperpot-soup/",
+        "description": "A vegan pepperpot soup built around vegetable soup powder from Wincos bulk section with appliance-friendly steps and Jamaican-inspired island seasoning.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/vegetable-soup-powder-from-wincos-bulk-section-pepperpot-soup.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
     }
 ]
