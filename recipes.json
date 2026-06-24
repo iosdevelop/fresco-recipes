@@ -72,6 +72,14 @@
         "servings": 4
     },
     {
+        "title": "Potatoes Rundown",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/potatoes-rundown/",
+        "description": "A vegan rundown built around potatoes with appliance-friendly steps and Jamaican-inspired island seasoning.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/potatoes-rundown.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
         "title": "Savory Mushroom Patties",
         "url": "https://iosdevelop.github.io/fresco-recipes/recipes/savory-mushroom-patties/",
         "description": "Savory vegan patties built around mushrooms with Jamaican-inspired island seasoning and complete appliance instructions.",

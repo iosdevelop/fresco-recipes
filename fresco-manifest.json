@@ -65,6 +65,13 @@
             "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-potatoes-patties/"
         },
         {
+            "recipe_id": 14,
+            "revision_id": 43,
+            "slug": "potatoes-rundown",
+            "content_hash": "5c016120ee8d96b1421653d3fdc3e733e394d40d3471becbf47cbb84d40d663d",
+            "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/potatoes-rundown/"
+        },
+        {
             "recipe_id": 18,
             "revision_id": 21,
             "slug": "tofu-jerk-bowl",
