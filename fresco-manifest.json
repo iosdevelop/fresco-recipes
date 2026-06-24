@@ -31,9 +31,9 @@
         },
         {
             "recipe_id": 5,
-            "revision_id": 8,
+            "revision_id": 56,
             "slug": "coconut-brown-rice",
-            "content_hash": "966e21c28965068acd7a835b9025dc21fbb257c5bc8da52907bf38a36b474d77",
+            "content_hash": "a0049fadfc9998d032ce16196f50d1b4d249d4fbe9b04ff252167b6948ab8e27",
             "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/coconut-brown-rice/"
         },
         {
