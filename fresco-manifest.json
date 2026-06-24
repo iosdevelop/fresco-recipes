@@ -108,9 +108,9 @@
         },
         {
             "recipe_id": 29,
-            "revision_id": 32,
+            "revision_id": 59,
             "slug": "1-small-onion-pepperpot-soup",
-            "content_hash": "c36fcc050c6fb325a060d697036cb413a7e36b4fce14d5a64695540d72557f34",
+            "content_hash": "fd4d4ec6d54809f4d4fdf0fd3f5782ef3b1292e5bab039bb395d01c323d87c28",
             "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/1-small-onion-pepperpot-soup/"
         },
         {
