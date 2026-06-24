@@ -86,6 +86,13 @@
             "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/home-style-vegan-tofu-scramble/"
         },
         {
+            "recipe_id": 22,
+            "revision_id": 45,
+            "slug": "potatoes-jerk-bowl",
+            "content_hash": "13b0054261c9e0d5d90636785fac8f0c0db826a58534c3515e2778531d181bcf",
+            "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/potatoes-jerk-bowl/"
+        },
+        {
             "recipe_id": 26,
             "revision_id": 29,
             "slug": "savory-mushroom-patties",
