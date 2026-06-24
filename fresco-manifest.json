@@ -87,7 +87,7 @@
         },
         {
             "recipe_id": 28,
-            "revision_id": 41,
+            "revision_id": 42,
             "slug": "vegetable-broth-rundown",
             "content_hash": "f341f7f09d5db1b5625517c8f68b32080f164fe95259d3c4f6ddcf56a31eea5e",
             "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegetable-broth-rundown/"
