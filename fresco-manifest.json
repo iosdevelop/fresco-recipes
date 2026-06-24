@@ -115,9 +115,9 @@
         },
         {
             "recipe_id": 30,
-            "revision_id": 33,
+            "revision_id": 60,
             "slug": "vegetable-soup-powder-from-wincos-bulk-section-pepperpot-soup",
-            "content_hash": "d06b6a63b0106158d113ad38f06dde3530cf944326cd3179b10015b9a96a72f8",
+            "content_hash": "6424f26cd719ebaeca1a4dd8d78a6b003fc62aed3d3d71e4dddd52fc818a7da7",
             "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegetable-soup-powder-from-wincos-bulk-section-pepperpot-soup/"
         }
     ],
