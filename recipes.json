@@ -1,5 +1,13 @@
 [
     {
+        "title": "1 Eggplant Thai Stew",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/1-eggplant-thai-stew/",
+        "description": "A savory vegan Thai-inspired stew with layered aromatics and a bright finish.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/1-eggplant-thai-stew.svg",
+        "cuisine": "Thai",
+        "servings": 4
+    },
+    {
         "title": "1 Small Onion Pepperpot Soup",
         "url": "https://iosdevelop.github.io/fresco-recipes/recipes/1-small-onion-pepperpot-soup/",
         "description": "A vegan pepperpot soup built around 1 small onion with appliance-friendly steps and Jamaican-inspired island seasoning.",
@@ -29,14 +37,6 @@
         "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
         "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/coconut-brown-rice.svg",
         "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Eggplant Thai Stew",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/eggplant-thai-stew/",
-        "description": "A savory vegan Thai-inspired stew with layered aromatics and a bright finish.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/eggplant-thai-stew.svg",
-        "cuisine": "Thai",
         "servings": 4
     },
     {
