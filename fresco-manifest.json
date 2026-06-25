@@ -122,11 +122,13 @@
         },
         {
             "recipe_id": 36,
-            "revision_id": 74,
-            "slug": "1-eggplant-thai-stew",
-            "content_hash": "1fc61fff1f6f8cfeb1d75dbacf20cdd28f612670b8f822ef2dbcfa83acb2e841",
-            "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/1-eggplant-thai-stew/"
+            "revision_id": 75,
+            "slug": "eggplant-thai-stew",
+            "content_hash": "51c2055c9ad979c3f5a3a3f09f029f0cc83d8c708d0f85f75f8cafb89aab7b2e",
+            "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/eggplant-thai-stew/"
         }
     ],
-    "redirects": []
+    "redirects": {
+        "small-onion-pepperpot-soup": "https://iosdevelop.github.io/fresco-recipes/recipes/1-small-onion-pepperpot-soup/"
+    }
 }
