@@ -1,145 +1,153 @@
 [
     {
-        "title": "1 Small Onion Pepperpot Soup",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/1-small-onion-pepperpot-soup/",
-        "description": "A vegan pepperpot soup built around 1 small onion with appliance-friendly steps and Jamaican-inspired island seasoning.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/1-small-onion-pepperpot-soup.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Chickpea Curry Bowl",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/chickpea-curry-bowl/",
-        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/chickpea-curry-bowl.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Chickpeas Jamaican Stew",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/chickpeas-jamaican-stew/",
-        "description": "A savory vegan Jamaican-inspired stew with layered aromatics and a bright lime finish.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/chickpeas-jamaican-stew.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Coconut Brown Rice",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/coconut-brown-rice/",
-        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/coconut-brown-rice.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Eggplant Thai Stew",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/eggplant-thai-stew/",
-        "description": "A savory vegan Thai-inspired stew with layered aromatics and a bright finish.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/eggplant-thai-stew.svg",
-        "cuisine": "Thai",
-        "servings": 4
-    },
-    {
-        "title": "Home-Style Vegan Tofu Scramble",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/home-style-vegan-tofu-scramble/",
-        "description": "An original home-kitchen recipe inspired by Tofu Scramble, built around potatoes with the jamaican-inspired vegan comfort food feel and the qualities you liked: bold flavor and satisfying texture.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/home-style-vegan-tofu-scramble.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Jamaican Lentil Stew",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-lentil-stew/",
-        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/jamaican-lentil-stew.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Jamaican Potatoes Coconut Bowl",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-potatoes-coconut-bowl/",
-        "description": "A vegan Jamaican recipe built around available ingredients and appliance-friendly cooking.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/jamaican-potatoes-coconut-bowl.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Jamaican Potatoes Patties",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-potatoes-patties/",
-        "description": "A vegan Jamaican patties built around potatoes with appliance-friendly steps and bright island seasoning.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/jamaican-potatoes-patties.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Jamaican Rice and Peas",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-rice-and-peas/",
-        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/jamaican-rice-and-peas.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Potatoes Jerk Bowl",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/potatoes-jerk-bowl/",
-        "description": "A vegan jerk bowl built around potatoes with appliance-friendly steps and Jamaican-inspired island seasoning.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/potatoes-jerk-bowl.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Potatoes Rundown",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/potatoes-rundown/",
-        "description": "A vegan rundown built around potatoes with appliance-friendly steps and Jamaican-inspired island seasoning.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/potatoes-rundown.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Savory Mushroom Patties",
+        "title": "Bonfire Mushroom Patties",
         "url": "https://iosdevelop.github.io/fresco-recipes/recipes/savory-mushroom-patties/",
-        "description": "Savory vegan patties built around mushrooms with Jamaican-inspired island seasoning and complete appliance instructions.",
+        "description": "Crispy air-fried patties of browned mushrooms and tofu with thyme, allspice, and lime.",
         "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/savory-mushroom-patties.svg",
         "cuisine": "Jamaican",
         "servings": 4
     },
     {
-        "title": "Tofu Jerk Bowl",
+        "title": "Bright Morning Tofu Scramble",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/home-style-vegan-tofu-scramble/",
+        "description": "Turmeric tofu scramble with crisp golden potatoes, scallions, and a squeeze of lime.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/home-style-vegan-tofu-scramble.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Crackle Potato Patties",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-potatoes-patties/",
+        "description": "Crisp oven-baked patties of mashed potato, cauliflower, and chickpeas seasoned with thyme and allspice.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/jamaican-potatoes-patties.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Ember Jerk Potato Bowl",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/ember-jerk-potato-bowl/",
+        "description": "Jerk-marinated potatoes and peppers, air-fried until charred, over brown rice with a coconut-lime drizzle.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/ember-jerk-potato-bowl.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Firecracker Jerk Tofu Bowl",
         "url": "https://iosdevelop.github.io/fresco-recipes/recipes/tofu-jerk-bowl/",
-        "description": "A vegan jerk bowl built around tofu with appliance-friendly steps and Jamaican-inspired island seasoning.",
+        "description": "Air-fried jerk tofu and charred cauliflower over brown rice with creamy coconut black beans.",
         "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/tofu-jerk-bowl.svg",
         "cuisine": "Jamaican",
         "servings": 4
     },
     {
-        "title": "Vegan Dumplings",
+        "title": "Firecracker Squash Boats",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/firecracker-squash-boats/",
+        "description": "This dish combines tender spaghetti squash stuffed with a flavorful mixture of black beans, zucchini, brown rice pilaf, and topped with a spicy sauce. The whole meal is cooked in an Instant Pot for maximum convenience.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/firecracker-squash-boats.svg",
+        "cuisine": "American",
+        "servings": 4
+    },
+    {
+        "title": "Firelight Lentil Stew",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-lentil-stew/",
+        "description": "Lentils, carrots, and potatoes in a thyme and allspice broth enriched with coconut milk.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/jamaican-lentil-stew.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Golden Coast Coconut Bowl",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-potatoes-coconut-bowl/",
+        "description": "Brown rice bowls topped with steamed potatoes and cauliflower in a thyme-scented coconut sauce with chickpeas.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/jamaican-potatoes-coconut-bowl.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Golden Hour Chickpea Stew",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/golden-hour-chickpea-stew/",
+        "description": "Sweet potatoes and chickpeas simmered with thyme, allspice, and light coconut milk, finished with lime.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/golden-hour-chickpea-stew.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Harvest Moon Chickpea Rice",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/harvest-moon-chickpea-rice/",
+        "description": "Brown rice and chickpeas cooked with tomatoes, smoked paprika, and cumin, finished with lemon and parsley.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/harvest-moon-chickpea-rice.svg",
+        "cuisine": "Global",
+        "servings": 6
+    },
+    {
+        "title": "Hearthside Cabbage Stew",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/hearthside-cabbage-stew/",
+        "description": "A comforting stew of golden sweet onions, chickpeas, and tender cabbage, warmed with cumin and finished with lemon.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/hearthside-cabbage-stew.svg",
+        "cuisine": "Indian",
+        "servings": 4
+    },
+    {
+        "title": "Island Breeze Coconut Rice",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/coconut-brown-rice/",
+        "description": "Toasted brown rice cooked in coconut milk with garlic, thyme, and scallion, brightened with lime.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/coconut-brown-rice.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Lantern Spinner Dumplings",
         "url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegan-dumplings/",
-        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
+        "description": "Jamaican-style spinner dumplings simmered in a garlic, thyme, and allspice broth.",
         "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/vegan-dumplings.svg",
         "cuisine": "Jamaican",
         "servings": 4
     },
     {
-        "title": "Vegan Mushroom Gravy",
+        "title": "Monsoon Curry Bowl",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/chickpea-curry-bowl/",
+        "description": "Potatoes, cauliflower, and chickpeas in a Jamaican curry and coconut sauce, ready in one pot.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/chickpea-curry-bowl.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Night Market Eggplant Stew",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/night-market-eggplant-stew/",
+        "description": "Eggplant, potato, and red pepper in a red curry coconut broth with lime and basil.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/night-market-eggplant-stew.svg",
+        "cuisine": "Thai",
+        "servings": 4
+    },
+    {
+        "title": "Slow Sunday Rundown",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/slow-sunday-rundown/",
+        "description": "A Jamaican rundown: potatoes, cauliflower, and chickpeas simmered until the coconut sauce runs down thick.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/slow-sunday-rundown.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Spice Market Samosas",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/spice-market-samosas/",
+        "description": "Crisp air-fried samosas filled with spiced potatoes and peas, finished with lime and cilantro.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/spice-market-samosas.svg",
+        "cuisine": "Indian",
+        "servings": 4
+    },
+    {
+        "title": "Sunday Rice and Peas",
+        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-rice-and-peas/",
+        "description": "Classic Jamaican rice and peas: brown rice and kidney beans cooked in coconut milk with thyme, scallion, and allspice.",
+        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/jamaican-rice-and-peas.svg",
+        "cuisine": "Jamaican",
+        "servings": 4
+    },
+    {
+        "title": "Velvet Mushroom Gravy",
         "url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegan-mushroom-gravy/",
-        "description": "A vegan Jamaican staple built for weeknight cooking and appliance-friendly instructions.",
+        "description": "A silky, savory gravy of browned mushrooms, thyme, and tamari for rice, mash, or dumplings.",
         "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/vegan-mushroom-gravy.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Vegetable Broth Rundown",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegetable-broth-rundown/",
-        "description": "A vegan rundown built around 1 tablespoon coconut oil or vegetable broth with appliance-friendly steps and Jamaican-inspired island seasoning.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/vegetable-broth-rundown.svg",
-        "cuisine": "Jamaican",
-        "servings": 4
-    },
-    {
-        "title": "Vegetable Soup Powder From Wincos Bulk Section Pepperpot Soup",
-        "url": "https://iosdevelop.github.io/fresco-recipes/recipes/vegetable-soup-powder-from-wincos-bulk-section-pepperpot-soup/",
-        "description": "A vegan pepperpot soup built around vegetable soup powder from Wincos bulk section with appliance-friendly steps and Jamaican-inspired island seasoning.",
-        "image": "https://iosdevelop.github.io/fresco-recipes/assets/recipes/vegetable-soup-powder-from-wincos-bulk-section-pepperpot-soup.svg",
         "cuisine": "Jamaican",
         "servings": 4
     }

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
-  <title id="title">1 Small Onion Pepperpot Soup</title>
+  <title id="title">Golden Hour Chickpea Stew</title>
   <desc id="desc">An illustrated bowl whose colors and shapes reflect this recipe's ingredients.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -31,9 +31,9 @@
   <circle cx="668" cy="428" r="13" fill="#fff" opacity=".18"/>
   <circle cx="800" cy="405" r="42" fill="#5ab36c" opacity=".96"/>
   <circle cx="788" cy="393" r="10" fill="#fff" opacity=".18"/>
-  <circle cx="500" cy="535" r="49" fill="#5ab36c" opacity=".96"/>
+  <circle cx="500" cy="535" r="49" fill="#d9b45d" opacity=".96"/>
   <circle cx="488" cy="523" r="12" fill="#fff" opacity=".18"/>
-  <circle cx="635" cy="535" r="38" fill="#5ab36c" opacity=".96"/>
+  <circle cx="635" cy="535" r="38" fill="#8a3f35" opacity=".96"/>
   <circle cx="623" cy="523" r="9" fill="#fff" opacity=".18"/>
   <circle cx="735" cy="525" r="45" fill="#5ab36c" opacity=".96"/>
   <circle cx="723" cy="513" r="11" fill="#fff" opacity=".18"/>
@@ -41,5 +41,5 @@
   <circle cx="365" cy="370" r="10" fill="#9b5632"/>
   <circle cx="624" cy="360" r="9" fill="#9b5632"/>
   <path d="M290 615 C430 700 770 700 910 615" fill="none" stroke="#fbf8ec" stroke-width="26" stroke-linecap="round" opacity=".65"/>
-  <text x="600" y="735" fill="#f7f4e8" font-family="system-ui, sans-serif" font-size="42" font-weight="800" text-anchor="middle">1 Small Onion Pepperpot Soup</text>
+  <text x="600" y="735" fill="#f7f4e8" font-family="system-ui, sans-serif" font-size="42" font-weight="800" text-anchor="middle">Golden Hour Chickpea Stew</text>
 </svg>
