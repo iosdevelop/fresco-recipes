@@ -11,7 +11,7 @@
     </filter>
   </defs>
   <rect width="1200" height="800" fill="url(#bg)"/>
-  <circle cx="190" cy="145" r="64" fill="#f4c95d" opacity=".24"/>
+  <circle cx="190" cy="145" r="64" fill="#e24b36" opacity=".24"/>
   <circle cx="1015" cy="165" r="96" fill="#5ab36c" opacity=".18"/>
   <circle cx="960" cy="650" r="72" fill="#9b5632" opacity=".2"/>
   <ellipse cx="600" cy="455" rx="410" ry="255" fill="#18221f" opacity=".55"/>
@@ -29,13 +29,13 @@
   <circle cx="533" cy="408" r="11" fill="#fff" opacity=".18"/>
   <circle cx="680" cy="440" r="53" fill="#5ab36c" opacity=".96"/>
   <circle cx="668" cy="428" r="13" fill="#fff" opacity=".18"/>
-  <circle cx="800" cy="405" r="42" fill="#8a3f35" opacity=".96"/>
+  <circle cx="800" cy="405" r="42" fill="#5ab36c" opacity=".96"/>
   <circle cx="788" cy="393" r="10" fill="#fff" opacity=".18"/>
-  <circle cx="500" cy="535" r="49" fill="#d9b45d" opacity=".96"/>
+  <circle cx="500" cy="535" r="49" fill="#5ab36c" opacity=".96"/>
   <circle cx="488" cy="523" r="12" fill="#fff" opacity=".18"/>
-  <circle cx="635" cy="535" r="38" fill="#5ab36c" opacity=".96"/>
+  <circle cx="635" cy="535" r="38" fill="#8a3f35" opacity=".96"/>
   <circle cx="623" cy="523" r="9" fill="#fff" opacity=".18"/>
-  <circle cx="735" cy="525" r="45" fill="#5ab36c" opacity=".96"/>
+  <circle cx="735" cy="525" r="45" fill="#d9b45d" opacity=".96"/>
   <circle cx="723" cy="513" r="11" fill="#fff" opacity=".18"/>
   <circle cx="812" cy="502" r="12" fill="#9b5632"/>
   <circle cx="365" cy="370" r="10" fill="#9b5632"/>

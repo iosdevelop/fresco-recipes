@@ -16,12 +16,12 @@
   <circle cx="960" cy="650" r="72" fill="#9b5632" opacity=".2"/>
   <ellipse cx="600" cy="455" rx="410" ry="255" fill="#18221f" opacity=".55"/>
   <ellipse cx="600" cy="420" rx="390" ry="245" fill="#f7f1df" filter="url(#shadow)"/>
-  <ellipse cx="600" cy="420" rx="318" ry="190" fill="#cf7e3f"/>
-  <circle cx="460" cy="330" r="36" fill="#8a3f35" opacity=".96"/>
+  <ellipse cx="600" cy="420" rx="318" ry="190" fill="#efe1bd"/>
+  <circle cx="460" cy="330" r="36" fill="#f4ead0" opacity=".96"/>
   <circle cx="448" cy="318" r="9" fill="#fff" opacity=".18"/>
   <circle cx="575" cy="290" r="43" fill="#f4ead0" opacity=".96"/>
   <circle cx="563" cy="278" r="10" fill="#fff" opacity=".18"/>
-  <circle cx="710" cy="330" r="50" fill="#e24b36" opacity=".96"/>
+  <circle cx="710" cy="330" r="50" fill="#5ab36c" opacity=".96"/>
   <circle cx="698" cy="318" r="12" fill="#fff" opacity=".18"/>
   <circle cx="405" cy="430" r="39" fill="#5ab36c" opacity=".96"/>
   <circle cx="393" cy="418" r="9" fill="#fff" opacity=".18"/>
@@ -29,6 +29,14 @@
   <circle cx="533" cy="408" r="11" fill="#fff" opacity=".18"/>
   <circle cx="680" cy="440" r="53" fill="#5ab36c" opacity=".96"/>
   <circle cx="668" cy="428" r="13" fill="#fff" opacity=".18"/>
+  <circle cx="800" cy="405" r="42" fill="#5ab36c" opacity=".96"/>
+  <circle cx="788" cy="393" r="10" fill="#fff" opacity=".18"/>
+  <circle cx="500" cy="535" r="49" fill="#5ab36c" opacity=".96"/>
+  <circle cx="488" cy="523" r="12" fill="#fff" opacity=".18"/>
+  <circle cx="635" cy="535" r="38" fill="#e24b36" opacity=".96"/>
+  <circle cx="623" cy="523" r="9" fill="#fff" opacity=".18"/>
+  <circle cx="735" cy="525" r="45" fill="#5ab36c" opacity=".96"/>
+  <circle cx="723" cy="513" r="11" fill="#fff" opacity=".18"/>
   <circle cx="812" cy="502" r="12" fill="#9b5632"/>
   <circle cx="365" cy="370" r="10" fill="#9b5632"/>
   <circle cx="624" cy="360" r="9" fill="#9b5632"/>

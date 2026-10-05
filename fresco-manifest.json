@@ -38,9 +38,9 @@
         },
         {
             "recipe_id": 6,
-            "revision_id": 134,
+            "revision_id": 149,
             "slug": "jamaican-lentil-stew",
-            "content_hash": "bb1a5f24d8dba4568aa39d45131980fa922e87308303ad2a854a59b672a9d03c",
+            "content_hash": "618ef168446ca8c012af0f09dd0fd06bba6b54d6b924814dae46b1171fa0faba",
             "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/jamaican-lentil-stew/"
         },
         {
@@ -122,16 +122,16 @@
         },
         {
             "recipe_id": 50,
-            "revision_id": 145,
+            "revision_id": 150,
             "slug": "firecracker-squash-boats",
-            "content_hash": "5fa06a930fc2f7f7a070e79ab92d94dba2e71b16e8148ecc4358e5a03b33b6f4",
+            "content_hash": "e8227860ca80cbf8da1030a27d88a826d22adbf38e6c6045a60b353a193170ce",
             "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/firecracker-squash-boats/"
         },
         {
             "recipe_id": 51,
-            "revision_id": 146,
+            "revision_id": 148,
             "slug": "hearthside-cabbage-stew",
-            "content_hash": "22af4d8fe571dbe8e65f2c0e988ca13ad2beca87337779813efa8823e49c1dc7",
+            "content_hash": "adfc5684a8868fcd4e93a5a892c123390563a01d97fb0f44c957fc9ed4ffc139",
             "public_url": "https://iosdevelop.github.io/fresco-recipes/recipes/hearthside-cabbage-stew/"
         }
     ],
